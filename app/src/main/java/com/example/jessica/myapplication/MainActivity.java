@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("mondaymondaymonday");
         System.out.println("addsundaysunday");
 
+        System.out.println("sunday22222222");
+
 
     }
 }
