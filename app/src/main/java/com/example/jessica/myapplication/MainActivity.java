@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void addInfo(){
         System.out.println("add11111");
+
+        System.out.println("addsundaysunday");
     }
 }
