@@ -15,10 +15,12 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("add11111");
 
         System.out.println("mondaymondaymonday");
+
         System.out.println("addsundaysunday");
 
-        System.out.println("sunday22222222");
+        System.out.println("monday2222222");
 
+        System.out.println("sunday22222222");
 
         System.out.println("sunday333333");
 
